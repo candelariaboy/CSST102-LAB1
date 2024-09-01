@@ -41,8 +41,17 @@ The influence of machine learning on fraud detection within the financial sector
  **Problem Being Solved:**
 In the realm of targeted advertising and retargeting, machine learning tackles essential issues in digital marketing, such as ineffective audience targeting, low ad relevance, high customer acquisition costs, and poor conversion rates. By utilizing machine learning, marketers can develop highly targeted, personalized, and impactful advertising campaigns that enhance engagement and conversion rates while optimizing overall advertising expenditures, resulting in improved business outcomes.
 
+![Marketing](https://github.com/user-attachments/assets/2ae801fd-80df-4576-b851-7da5e04b8002)
 
+* **Type of Machine Learning Used:**
 
+**Reinforcement learning**
+
+Reinforcement Learning involves training an agent to make decisions by rewarding or punishing actions based on their outcomes. The agent learns a policy that maximizes the total reward over time.
+
+* **Impact of the Solution:**
+
+The use of machine learning in ad targeting and retargeting revolutionizes the effectiveness of advertising campaigns. By enhancing targeting precision, personalization, and optimization of ad spending, along with offering real-time adjustments and improved customer insights, machine learning greatly enhances the performance of ad campaigns. These improvements result in increased conversion rates, better return on investment (ROI), and a more enjoyable user experience.
 
 
 
